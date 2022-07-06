@@ -2,7 +2,7 @@
  * This script converts MRXS files into compressed pyramidal ome.tiff files
  * through the use of bioformats2raw and raw2ometiff conversion tools.
  * https://github.com/glencoesoftware
- * Conversion parameters include choosing resolution levels and compression type.
+ * MRXS conversion parameters include choosing resolution levels and compression type.
  * Script is executed through FIJI/ImageJ software.
  * @author: Nicolas BIOP, EPFL, 2021
  * https://github.com/NicoKiaru
