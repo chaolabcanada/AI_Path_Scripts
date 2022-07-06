@@ -3,7 +3,7 @@
  * and add them to the current image. 
  * @author: Chao Lab @Sunnybrook
  * @email: jesse.chao@sri.utoronto.ca 
- * @version: 0.3
+ * @version: 1.0
  */ 
 
 
