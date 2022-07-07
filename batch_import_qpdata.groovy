@@ -1,9 +1,9 @@
 /**
- * This script imports annotations stored in *.qpdata into 
- * a QuPath project. The images and .qpdata files must
- * have matching names.
+ * This script imports annotations stored in *.qpdata
+ * and adds them to images in the current QuPath project.
+ * The images and .qpdata files must have matching names.
  * @author: Chao Lab @Sunnybrook
- * @version: 0.2
+ * @version: 1.0
  */
  
 import qupath.lib.io.PathIO
