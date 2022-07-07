@@ -1,11 +1,10 @@
 /**
  * This script imports annotations stored as json files
- * and add them to images in the current QuPath project.
+ * and adds them to images in the current QuPath project.
  * The images and json files must have matching names.
  * @author: Chao Lab @Sunnybrook
- * @version: 0.2
+ * @version: 1.0
  */
-
 
 import qupath.lib.io.GsonTools
 import java.nio.file.Path
