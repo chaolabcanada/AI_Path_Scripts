@@ -39,8 +39,6 @@ if(returnVal == JFileChooser.APPROVE_OPTION) {
             // Build the path to .qpdata   
             String qpdataPath = Paths.get(qpdataDir.toString(), imageName + ".qpdata")       
         
-        
-        // qpdata files need to be in the same folder as the tif files for this to work
             try {
                 // Read associated qpdata file and add annotations
                 print ("Found matching qpdata file at" + qpdataPath)
