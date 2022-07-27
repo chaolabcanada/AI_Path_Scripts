@@ -1,6 +1,6 @@
 Batch Import Json Annotations
 =============================
-This script allows you to Batch import json files onto corresponding images using a groovy script that runs on QuPath.
+This script allows you to batch import json files onto corresponding images using a groovy script that runs on QuPath.
 
 Usage:
 ======
