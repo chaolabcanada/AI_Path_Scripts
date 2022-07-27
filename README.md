@@ -1,4 +1,3 @@
-QuPath automation helper scripts.
-
-Test test test
-Ajay's gonna work on me. test.
+AI-Pathology Pipeline Scripts
+========================================
+These scripts are used for the automation of pre-proccessing pipeline tasks for our AI-mediated pathology detection model.   
