@@ -10,4 +10,4 @@ Usage:
 * A file-chooser window will appear. Select a folder to export the json annotation files into. 
 
 * Once chosen, the script will run. 
-You can watch the annotations be extracted and saved in the window below the script entry area as the line "Annotation saved to [filename and output directory]" is printed with each image/annotation file.
+You can watch the annotations being saved in the window below the script entry area as the line "Annotation saved to [filename and output directory]" is printed as the script works through each image.
