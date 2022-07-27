@@ -2,7 +2,8 @@ Batch Export Json annotations
 =============================
 This script allows you to batch export the annotations from a QuPath project.
 
-**Usage:**
+Usage:
+======
 
 Run the script on QuPath software
 
