@@ -1,4 +1,4 @@
-Batch Export Json annotations
+Batch Export Json Annotations
 =============================
 This script allows you to batch export the annotations from a QuPath project.
 
@@ -10,4 +10,4 @@ Usage:
 * A file-chooser prompt will appear. Select a folder where the new json annotation files can be exported into. 
 
 * Once chosen, the script will run. 
-While the script iterates through each image in the project, you can watch the annotations being saved in the window below the script display area as the line "Annotation saved to [filename and output directory]" is printed.
+While the script iterates through each image in the project, you can monitor the progress of the json annotations being exported/saved through the script output box
