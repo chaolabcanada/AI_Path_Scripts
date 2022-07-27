@@ -1,3 +1,3 @@
 AI-Pathology Pipeline Scripts
 ========================================
-These scripts are used for automating tasks in the pre-proccessing pipeline of our AI-mediated pathology detection model.   
+These scripts are used for automating tasks in the pre-proccessing pipeline of our AI-Mediated Pathology Detection model.   
