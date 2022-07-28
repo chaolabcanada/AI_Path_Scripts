@@ -12,7 +12,7 @@ Requirements:
 
 Installing c-blosc:
 ======
-* Ubuntu 18.04+: In Terminal, type in 'apt-get install libblosc1'
+* Ubuntu 18.04+: In Terminal, type in `apt-get install libblosc1`
 
  
 
