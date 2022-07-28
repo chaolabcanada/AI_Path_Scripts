@@ -1,6 +1,6 @@
 Batch Import .qpdata Annotations
 ================================
-This script allows you to batch import .qpdata files onto corresponding images using QuPath software.
+This script allows you to batch import .qpdata files onto corresponding images using [QuPath software](https://qupath.github.io/).
 
 Usage:
 ======
