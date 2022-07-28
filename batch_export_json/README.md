@@ -9,5 +9,5 @@ Usage:
 
 * A file-chooser prompt will appear. Select a folder where the new json annotation files can be exported into. 
 
-* Once chosen, the script will run. 
+The script will now run. 
 While the script iterates through each image in the project, you can monitor the progress of the json annotations being exported/saved through the script output box.
