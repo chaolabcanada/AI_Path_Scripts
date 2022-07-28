@@ -25,8 +25,8 @@ Usage:
 ======
 **Change the directory path on lines 17 and 18 of the script**
 
-* Line 17: change the directory to point towards the batch file. e.g. `path/to/bioformats2raw-0.4.1-SNAPSHOT/bin/bioformats2raw.bat`
+* Line 17: change the directory to point towards the batch file. E.g. `path/to/bioformats2raw-0.4.1-SNAPSHOT/bin/bioformats2raw.bat`
 
-* Line 18:  change the directory to point towards the batch file. e.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
+* Line 18:  change the directory to point towards the batch file. E.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
 
 **make sure to change all backslashes into forward slashes**
