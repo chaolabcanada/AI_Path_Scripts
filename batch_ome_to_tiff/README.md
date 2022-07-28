@@ -16,7 +16,7 @@ Installing c-blosc:
 
  
 
-* Mac-OS: In Terminal, type in 'brew install c-blosc' then set 'JAVA_OPTS='-Djna.library.path=/usr/local/Cellar/c-blosc/*/lib''
+* Mac-OS: In Terminal, type in `brew install c-blosc`, then set `JAVA_OPTS='-Djna.library.path=/usr/local/Cellar/c-blosc/*/lib'`
 
  
 
