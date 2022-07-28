@@ -25,9 +25,9 @@ Usage:
 ======
 **With the script open on FIJI-ImageJ, Change the directory path on lines 17 and 18 of the script:**
 
-* Line 17: change the directory to point towards the batch file. E.g. `path/to/bioformats2raw-0.4.1-SNAPSHOT/bin/bioformats2raw.bat`
+* **Line 17**: change the directory to point towards the batch file. E.g. `path/to/bioformats2raw-0.4.1-SNAPSHOT/bin/bioformats2raw.bat`
 
-* Line 18:  change the directory to point towards the batch file. E.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
+* **Line 18**:  change the directory to point towards the batch file. E.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
 
 Make sure to change all backslashes into forward slashes.
 
@@ -45,3 +45,5 @@ Set _"compression"_ type
 
 License:
 ========
+The converter is distributed under the terms of the GPL license.
+Please see `LICENSE.txt` for further details.
