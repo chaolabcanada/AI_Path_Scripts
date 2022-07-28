@@ -7,7 +7,7 @@ Required Software:
 * [Fiji-ImageJ](https://imagej.net/software/fiji/downloads)
 * [Bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
 * [Raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
-* c-blosc library
+* [c-blosc library](https://github.com/Blosc/c-blosc)
 
 
 Usage:
