@@ -5,7 +5,7 @@ This script allows you to batch export annotations from a QuPath project.
 Usage:
 ======
 
-* Run the script through QuPath software upon a project containing images.
+* Run the script through [QuPath software](https://qupath.github.io/) upon a project containing images.
 
 * A file-chooser prompt will appear. Select a folder where the new json annotation files can be exported into. 
 
