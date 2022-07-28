@@ -32,7 +32,6 @@ Usage:
 Make sure to change all backslashes into forward slashes.
 
 
-
 **Execute the script:**
 
 In the GUI menu, click _"Batch"_
