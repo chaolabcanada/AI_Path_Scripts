@@ -1,1 +1,1 @@
-test [qupath](https://pip.pypa.io/en/stable/)
+test [QuPath](https://qupath.github.io/)
