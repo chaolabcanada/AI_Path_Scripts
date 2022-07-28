@@ -28,5 +28,5 @@ Usage:
 * Line 17: change the directory to point towards the batch file. E.g. `path/to/bioformats2raw-0.4.1-SNAPSHOT/bin/bioformats2raw.bat`
 
 * Line 18:  change the directory to point towards the batch file. E.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
-_
-**make sure to change all backslashes into forward slashes**_
+
+_**make sure to change all backslashes into forward slashes**_
