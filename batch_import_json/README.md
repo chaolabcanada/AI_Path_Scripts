@@ -9,5 +9,5 @@ Usage:
 
 * A prompt will appear for choosing a directory. Select the directory containing the json files.
 
-* Once chosen, the script will run. 
+The script will now run. 
 While the script iterates through each image in the project, you can monitor the progress of the annotations being imported through the script output box.
