@@ -7,8 +7,7 @@ Requirements:
 * [Fiji-ImageJ](https://imagej.net/software/fiji/downloads)
 * [Bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
 * [Raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
-* [c-blosc library](https://github.com/Blosc/c-blosc)
-
+* [c-blosc library](https://sites.imagej.net/N5/lib/win64/)
 
 Installing c-blosc:
 ======
@@ -20,6 +19,4 @@ Installing c-blosc:
 
  
 
-* Windows: Pre-built blosc DLLs are available from the Fiji project. Rename the downloaded DLL to blosc.dll and place in a fixed location then set variable name by searching up edit the "system environment variables" --> "New system variable" on windows. Set the variable name as: JAVA_OPTS="
-
-set it's variable value as:-Djna.library.path=C:\path\to\blosc\folder"
+* Windows: Pre-built blosc DLLs are available from the [Fiji project](https://sites.imagej.net/N5/lib/win64/). Rename the downloaded DLL to `blosc.dll` and place it in a fixed location, then set variable name by searching up _edit_ the _"system environment variables" --> "New system variable"_. Set the variable name as: `JAVA_OPTS=`. Set its variable value as:`"-Djna.library.path=C:\path\to\blosc\folder"`
