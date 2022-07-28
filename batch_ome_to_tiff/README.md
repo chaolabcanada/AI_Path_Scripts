@@ -32,7 +32,9 @@ Usage:
 Make sure to change all backslashes into forward slashes.
 
 
+
 **Execute the script:**
+
 In the GUI menu, click _"Batch"_
 
 Click _"Add files"_ and choose all of the MRXS files you wish to convert. Click _"ok"_ once finished choosing
@@ -40,6 +42,7 @@ Click _"Add files"_ and choose all of the MRXS files you wish to convert. Click 
 Set _"Number of resolution levels"_
 
 Set _"compression"_ type
+
 
 License:
 ========
