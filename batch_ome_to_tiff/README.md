@@ -29,4 +29,4 @@ Usage:
 
 * Line 18:  change the directory to point towards the batch file. E.g. `path/to/raw2ometiff-0.3.0/bin/raw2ometiff.bat`
 
-**make sure to change all backslashes into forward slashes***
+***make sure to change all backslashes into forward slashes***
